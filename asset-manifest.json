@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cyberbuddies/static/css/main.514d0089.chunk.css",
+    "main.js": "/cyberbuddies/static/js/main.b02c4e97.chunk.js",
+    "main.js.map": "/cyberbuddies/static/js/main.b02c4e97.chunk.js.map",
+    "runtime-main.js": "/cyberbuddies/static/js/runtime-main.cdf76db0.js",
+    "runtime-main.js.map": "/cyberbuddies/static/js/runtime-main.cdf76db0.js.map",
+    "static/css/2.31461e4f.chunk.css": "/cyberbuddies/static/css/2.31461e4f.chunk.css",
+    "static/js/2.005ca6f1.chunk.js": "/cyberbuddies/static/js/2.005ca6f1.chunk.js",
+    "static/js/2.005ca6f1.chunk.js.map": "/cyberbuddies/static/js/2.005ca6f1.chunk.js.map",
+    "static/js/3.62b6f1a0.chunk.js": "/cyberbuddies/static/js/3.62b6f1a0.chunk.js",
+    "static/js/3.62b6f1a0.chunk.js.map": "/cyberbuddies/static/js/3.62b6f1a0.chunk.js.map",
+    "index.html": "/cyberbuddies/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/cyberbuddies/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.514d0089.chunk.css.map": "/cyberbuddies/static/css/main.514d0089.chunk.css.map",
+    "static/js/2.005ca6f1.chunk.js.LICENSE.txt": "/cyberbuddies/static/js/2.005ca6f1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/cyberbuddies/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdf76db0.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.005ca6f1.chunk.js",
+    "static/css/main.514d0089.chunk.css",
+    "static/js/main.b02c4e97.chunk.js"
+  ]
+}
